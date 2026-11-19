@@ -1,0 +1,6 @@
+# Herramientas locales
+nasm.exe
+cwsdpmi.exe
+
+# Ejecutables temporales de verificacion
+src/TECL_V.COM
